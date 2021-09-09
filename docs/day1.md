@@ -1,7 +1,7 @@
 ---
 title: Day 1
 output: html_document
-Author: "Stacy Keydel"
+author: "Lauren Proctor and Stacy Keydel"
 ---
 
 # Example Text
